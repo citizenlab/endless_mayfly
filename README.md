@@ -1,6 +1,6 @@
 # Burned After Reading: Endless Mayfly’s Ephemeral Disinformation Campaign
 
-This repository contains datasets generated during the investigation on the Endless Mayfly Disinformation Campaign by the [Citizen Lab](https://citizenlab.ca/).
+This repository contains datasets generated during the investigation on the [Endless Mayfly Disinformation Campaign](https://citizenlab.ca/2019/05/burned-after-reading-endless-mayflys-ephemeral-disinformation-campaign) by the [Citizen Lab](https://citizenlab.ca/).
 
 This dataset includes the following CSV files:
 
